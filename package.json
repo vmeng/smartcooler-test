@@ -1,0 +1,23 @@
+{
+  "name": "smartcooler-test",
+  "version": "1.0.0",
+  "description": "some test for smartcooler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmeng/smartcooler-test.git"
+  },
+  "author": "viki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmeng/smartcooler-test/issues"
+  },
+  "homepage": "https://github.com/vmeng/smartcooler-test",
+  "dependencies": {
+    "express": "^4.12.3",
+    "restler": "^3.2.2"
+  }
+}
